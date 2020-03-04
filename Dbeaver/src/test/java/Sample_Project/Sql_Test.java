@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Sql_Test {
+public class Sql_Test extends Base_Class{
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		// Connection URL Syntax: "jdbc:mysql://ipaddress:portnumber/db_name"
